@@ -15,3 +15,5 @@
 ^https?:\/\/interface3?\.music\.163\.com\/eapi\/(homepage\/|v6\/)?playlist\/ url script-request-header cloudmusic.js
 # 会员认证
 ^https?:\/\/interface3?\.music\.163\.com\/eapi\/vipauth\/app\/auth\/(soundquality\/)?query url script-request-header cloudmusic.js
+
+hostname=*.163.music.com
